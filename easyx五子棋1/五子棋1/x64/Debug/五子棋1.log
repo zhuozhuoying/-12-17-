@@ -1,0 +1,23 @@
+﻿  源.cpp
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(24,3): warning C4551: 缺少参数列表的函数调用
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(62,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(63,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(66,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(67,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(128,99): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(131,68): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(131,68): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(131,213): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(131,213): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(131,347): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(131,347): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(131,492): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(131,492): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(137,112): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(211,98): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(229,98): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(254,10): warning C4551: 缺少参数列表的函数调用
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(267,10): warning C4551: 缺少参数列表的函数调用
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(374): warning C4715: “locationy”: 不是所有的控件路径都返回值
+C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\源.cpp(357): warning C4715: “locationx”: 不是所有的控件路径都返回值
+  五子棋1.vcxproj -> C:\Users\薛润泽\Desktop\计导大作业 五子棋\easyx五子棋1\五子棋1\x64\Debug\五子棋1.exe
